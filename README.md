@@ -6,13 +6,11 @@ Full-Stack focused in java | Software engineer :robot:
 Lover of Technology and coding :heart:
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-
-square&logo=Github&logoColor=white&link=https://github.com/Lucasdfg07)]
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Lucasdfg07)]
 
 (https://github.com/jv-gomes)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-
-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jv-gomes/)](https://www.linkedin.com/in/jv-gomes/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jv-gomes/)](https://www.linkedin.com/in/jv-gomes/)
 
 - Thanks for visiting.
 - Enjoy it!! o/
