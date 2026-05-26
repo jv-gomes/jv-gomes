@@ -2,7 +2,7 @@
 src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 # Welcome!
 ## I'm João Vitor! Let me present a little about myself :D
-Full-Stack focused in java | Software engineer :robot:
+Full-Stack focused in java and javascript | Software engineer :robot:
 Lover of Technology and coding :heart:
 ## About me
 
