@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400"
+<img align="right" width="300" height="300"
 src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 # Welcome!
 ## I'm João Vitor! Let me present a little about myself :D
